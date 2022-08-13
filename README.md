@@ -50,9 +50,6 @@ Do not hesitate to contribute to the project by adapting or adding features! Bug
 
 ## Author
 
-- [Ehsanghaffarii Personal Website](https://Ehsanghaffarii.ir)
-
-- [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)
 
 ## License
 
