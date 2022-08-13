@@ -24,8 +24,6 @@ Beside Laravel, this project uses other tools like:
 
 * [Neumorphism UI](https://neumorphism.io)
 
-* [Laravel Terminal](https://github.com/recca0120/laravel-terminal)
-
 
 ## Using this repository
 
