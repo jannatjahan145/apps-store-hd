@@ -48,9 +48,6 @@ branch for pull request is `create`
 
 Do not hesitate to contribute to the project by adapting or adding features! Bug reports or pull requests are welcome.
 
-## Author
-
-
 ## License
 
 This project is open source and available under the [MIT License](http://opensource.org/licenses/MIT).
